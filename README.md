@@ -1,3 +1,10 @@
+> ⚠️ **Deprecated Example Notice**  
+> These example files are no longer actively maintained and may be outdated.  
+>  
+> 👉 For the latest and fully supported examples, please visit the official repository:  
+> [Red Hat AI Innovation Team – SDG Hub Skills Tuning Examples](https://github.com/Red-Hat-AI-Innovation-Team/sdg_hub/tree/main/examples/skills_tuning/instructlab)
+
+
 # InstructLab Skills Synthetic Data Generation
 
 ![InstructLab Banner](assets/instructlab-banner.png)
